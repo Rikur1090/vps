@@ -8,3 +8,5 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ssh ws udp xray
 
 pw install JANDAKU
+
+Wa 087721815317
