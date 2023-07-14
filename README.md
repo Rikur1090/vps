@@ -6,7 +6,9 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 
 ssh ws udp xray
 
-pw install JANDAKU
+TUTOR CEK VIDEO SAYA
+https://youtu.be/HRL4E6Bzml8
 
+pw install JANDAKU
 Jika Eror Bisa Hub.
 Wa 087721815317
